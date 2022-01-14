@@ -1,0 +1,69 @@
+
+
+
+
+ PARAMETERS 
+
+ bits for address: 32
+ bits to select PHT: 1
+ bits to select BHSR: 4
+ bits for each BHSR: 4
+ bits for FSM: 2
+
+ BIA: 1040
+
+  BHSR: 0000
+  Current State FSM: 0
+  Prediction: N
+ 
+ BTB
+
+  1040 1000
+ 
+ real BTA: 1000
+
+  Real Direction: T
+  New State FSM: 1
+ 
+ BIA: 1040
+
+  BHSR: 0001
+  Current State FSM: 0
+  Prediction: N
+ 
+ BTB
+
+  1040 1000
+ 
+ real BTA: 1000
+
+  Real Direction: T
+  New State FSM: 1
+ 
+ BIA: 1040
+
+  BHSR: 0011
+  Current State FSM: 0
+  Prediction: N
+ 
+ BTB
+
+  1040 1000
+ 
+ real BTA: 1000
+
+  Real Direction: T
+  New State FSM: 1
+ 
+
+
+
+
+ PARAMETERS 
+
+ bits for address: 32
+ bits to select PHT: 1
+ bits to select BHSR: 4
+ bits for each BHSR: 4
+ bits for FSM: 2
+
